@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Java*
 
-- 💬 Ask me about * Java ,  Android, Kotlin, Problem Solving HTML , CSS  , C , C++ , Python(Basic)*
+- 💬 Ask me about * Java ,  Android, Kotlin, Problem Solving , HTML , CSS  , C , C++ , Python(Basic)*
 
 - 📫 How to reach me *deepak.kumar.it.2024@gmail.com*
 
